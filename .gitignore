@@ -1,0 +1,11 @@
+*env.sh
+generate.sh
+
+coverage.txt
+.idea/
+.gitmessage.txt
+.vscode/
+
+.DS_Store
+
+*debug*
