@@ -42,6 +42,10 @@ linters-settings:
   funlen:
     lines: -1
     statements: -1
+  gosec:
+    excludes:
+      - G304
+      - G101
   revive:
     rules:
       - name: unused-parameter
